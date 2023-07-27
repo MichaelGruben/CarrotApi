@@ -7,7 +7,7 @@ export default function Welcome({ user }: { user: any }) {
         <Layout>
             <Head title="Welcome" />
             <h1>Welcome</h1>
-            <p>Hello {user.name}, welcome to your first Inertia app!</p>
+            <p>Hello {user.name}, welcome to your second Inertia app!</p>
         </Layout>
     );
 }
