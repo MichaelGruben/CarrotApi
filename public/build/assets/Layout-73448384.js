@@ -1,0 +1,1 @@
+import{j as a,a as e,d as r}from"./app-ab349eac.js";function c({children:t}){return a("main",{children:[a("header",{children:[e(r,{href:"/",children:"Home"}),e(r,{href:"/about",children:"About"}),e(r,{href:"/contact",children:"Contact"})]}),e("article",{children:t})]})}export{c as default};

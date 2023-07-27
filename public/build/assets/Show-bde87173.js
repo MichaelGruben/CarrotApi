@@ -1,0 +1,1 @@
+import{j as o,a as l,b as r}from"./app-ab349eac.js";import t from"./Layout-73448384.js";function i({user:e}){return console.log("USER",e),o(t,{children:[l(r,{title:"Welcome"}),l("h1",{children:"Welcome"}),o("p",{children:["Hello ",e.name,", welcome to your first Inertia app!"]})]})}export{i as default};
